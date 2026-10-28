@@ -1,0 +1,923 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.purple{
+    background-color: rgba(116, 12, 116, 0.718);
+}
+.icon{
+    text-decoration: none;
+    color: white;
+    font-size: 29px;
+    margin-left: 2%;
+}
+.purple-img{
+    margin-left: 28%;
+    width: 23%;
+    margin-top: 2%;
+}
+.purple-ul{
+    text-decoration: none;
+    
+
+}
+.purple-ul a{
+    text-decoration: none;
+    color: white;
+}
+.purple-ul a li{
+    display: inline-block; 
+    padding: 10px;
+    display: none;
+    text-transform: uppercase;
+    
+
+}
+.purple-li{
+    margin-left: 25%;
+}
+.purple-h2{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    margin-top: 10%;
+}
+.purple-btn{
+    background-color: rgba(240, 143, 7, 0.903);
+    border: 2px solid rgba(240, 143, 7, 0.903);
+    border-radius: 3px;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 33%;
+    margin-bottom: 15%;
+    margin-top: 6%;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+}
+/* purple div end here  */
+
+.blue-pestal{
+    background-color: rgba(25, 172, 126, 0.759);
+    height: 110vh;
+}
+.blue-pestal-h3{
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 2%;
+}
+.blue-pestle-hr{
+    width: 14%;
+    margin-left: 43%;
+    margin-top: 6px;
+    border: 2px solid rgba(0, 0, 0, 0.359);
+}
+.blue-pestal-p{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.blue-pestal-block{
+     margin-top: 15%; 
+
+}
+.blue-pestel-img{
+    width: 20%;
+    margin-left: 38%;
+}
+.blue-pestal-h2{
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+}
+.blue-pestal-p2{
+    color: white;
+    text-align: center;
+    /* width: 50%; */
+    margin-left: 10%;
+     margin-right: 10%;
+    margin-top: 3%;
+    /* font-weight: bold; */
+    font-size: 15px;
+    
+}
+/* blue pestle end here  */
+
+.grey{
+    background-color:rgba(231, 241, 248, 1.00);
+    height: 180vh;
+}
+.grey-h3{
+    text-align: center;
+    padding-top: 3%;
+    font-size: 17px;
+}
+.grey-hr{
+    
+    width:18%;
+    margin-left: 41%;
+    margin-top: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.359);
+}
+.grey-p{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 14px;
+    
+}
+
+.grey-img{
+    width: 50%;
+    margin-top: 15%;
+    border-radius: 350px;
+    margin-left: 24%;
+}
+
+.grey-h2{
+    margin-top: 7%;
+    text-align: center;
+}
+.grey-h4{
+    text-align: center;
+    margin-top: 3%;
+    color: rgb(0, 195, 255);
+    font-size: 13px;
+}
+.grey-p2{
+    margin-top: 4%;
+    font-size: 13px;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.grey-a i{
+    margin-top: 5%;
+    /* border: 1px solid black; */
+    padding: 2%;
+    border-radius: 250px;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(198, 196, 196);
+}
+    
+
+.grey-a-1{
+    margin-left: 34%;
+    /* border: 1px solid black ; */
+    padding: 2%;
+    border-radius: 250px;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(198, 196, 196);
+}
+.grey-a-1-2{
+    margin-left: 38%;
+    /* border: 1px solid black ; */
+    padding: 2%;
+    border-radius: 250px;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(198, 196, 196);
+    
+}
+
+/* GREY BLOCK END HERE */
+
+.white-h3{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 18px;
+}
+.white-hr{
+    
+    width:18%;
+    margin-left: 40%;
+    margin-top: 2%;
+    border: 1px solid rgba(0, 0, 0, 0.359);
+}
+.white-p{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 18px;
+    
+}
+.white-img{
+    margin-top: 15%;
+    margin-left: 29%;
+    
+}
+.white-h2{
+    margin-top: 2%;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.white-h1
+{
+    text-align: center;
+    margin-bottom: 20%;
+    margin-top: -25% ;
+    font-size: 45px;
+    
+}
+.white{
+    height:120vh ;
+}
+/* white end here  */
+
+.yellow{
+    background-color: rgba(232, 189, 109, 0.955);
+}
+.yellow-h3{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 3%;
+}
+.yellow-hr{
+    width:18%;
+    margin-left: 40%;
+    margin-top: 2%;
+    border: 1px solid rgba(0, 0, 0, 0.359);
+}
+.yellow-p{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 18px;
+    /* margin-left: 4 %;
+    margin-right: 4%; */
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.yellow-btn{
+    background-color: darkcyan;
+    margin-top: 7%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 17px;
+    padding-left: 17px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.yellow-btn-2{
+    background-color: darkcyan;
+    margin-top: 7%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 17px;
+    padding-left: 17px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.yellow-img{
+    margin-top: 15%;
+    width: 80%;
+    margin-left: 10%;
+
+}
+.yellow-img-1{
+    margin-top: 15%;
+    width: 80%;
+    margin-left: 10%;
+}
+.yellow-img-4{
+    margin-top: 15%;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.yellow-h2{
+    margin-top: 8%;
+    text-align: center;
+    font-size: 18px;
+}
+.yellow-btn-1{
+    margin-top: 10%;
+    margin-left: 19%;
+    background-color: darkcyan;
+    color: white;
+    border: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    margin-bottom: 5%;
+}
+/* yellow end here  */
+
+.pink{
+    background-color: rgba(237, 10, 101, 0.763);
+}
+.pink-h3{
+    color:white;
+    text-align: center;
+    padding-top: 3%;
+    font-size: 17px;
+}
+.pink-p{
+    color:white;
+    text-align: center;
+    margin-top: 18px;
+    font-size: 18px;
+
+}
+.pink-hr{
+    width:18%;
+    margin-left: 41%;
+    margin-top: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.359);
+}
+.pink-img{
+    width: 50%;
+    margin-top: 15%;
+    border-radius: 780px;
+    margin-left: 24%;
+}
+.pink-img-4{
+    width: 50%;
+    margin-top: 15%;
+    border-radius: 350px;
+    margin-left: 24%;
+}
+.pink-p2{
+    margin-top: 4%;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    color: white;
+}
+.pink-h2{
+    margin-top: 7%;
+    text-align: center;
+    color: white;
+}
+.pink-h4{
+    text-align: center;
+    margin-top: 3%;
+    color: yellow;
+    font-size: 13px;
+    padding-bottom: 5%;
+}
+/* pink block end here  */
+
+.blue{
+    background-color: rgba(80, 80, 207, 0.997);
+}
+.blue-h3{
+    color:white;
+    text-align: center;
+    padding-top: 3%;
+    font-size: 17px;
+}
+.blue-p{
+    color:white;
+    text-align: center;
+    margin-top: 18px;
+    font-size: 18px;
+
+}
+.blue-hr{
+    width:18%;
+    margin-left: 41%;
+    margin-top: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.359);
+}
+.blue-input-1{
+    margin-left: 10%;
+    color: white;
+    background-color: rgba(18, 14, 40, 0.644);
+    border: none;
+    border-radius: 3px;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+.blue-input-1::placeholder{
+    color: white;
+    
+}
+.blue-input-3::placeholder{
+    color: white;
+    
+}
+.blue-input-3{
+    margin-left: 1%;
+    background-color: rgba(18, 14, 40, 0.644);
+    border: none;
+    border-radius: 3px;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+.blue-input-2{
+    margin-left: 10%;
+    width: 80%;
+    
+    background-color: rgba(18, 14, 40, 0.644);
+    border: none;
+    border-radius: 3px;
+    margin-top: 5%;
+    padding-top: 2%;
+    padding-left: 1%;
+    padding-bottom: 25%;
+    
+}
+.blue-btn{
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: rgba(18, 14, 40, 0.644);
+    border: none;
+    border-radius: 3px;
+    padding-top: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 1%;
+    color: white;
+}
+.blue-input-2::placeholder{
+    color: white;
+    
+
+    
+}
+.blue-ul{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(18, 14, 40, 0.644);
+    margin-top: 5%;
+    padding-top: 5%;
+
+    padding-bottom: 5%;
+    text-align: center;
+    
+}
+.blue-ul li{
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5%;
+    
+    
+}
+.blue-li-1{
+    margin-left:10% ;
+    margin-top: 5%;
+}
+/* blue block end here  */
+
+@media (min-width:768px){
+    .icon{
+        display: none;
+    }
+    .purple-img{
+        margin-left: 2%;
+        width: 20%;
+    }
+    .purple-ul a li{
+        display: inline-block;
+        font-weight: bold;
+        font-size: 20px; 
+    }
+    .purple-li{
+        margin-left: 37%; 
+        
+    }
+    .purple-ul{
+        margin-top: -5%;
+        
+    }
+    .purple-h2{
+        font-size: 29px;
+    }
+    .purple-btn{
+        font-size: 20px;
+    }
+    
+
+
+/* purple div end here  */
+
+
+    .blue-pestal-h3{
+        font-size: 32px;
+    }
+    .blue-pestal-p{
+        font-size: 23px;
+        margin-left: 2%;
+    }
+    .blue-pestel-img{
+        width:45%;
+        margin-left: 26%;
+        display: inline-block;
+    }
+    .blue-pestal-h2{
+        font-size: 40px;
+        margin-left:4%;
+        text-align: center;
+    }
+    .blue-pestal-p2{
+        text-align: center;
+        font-size: 20px;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 10%
+    }
+    .blue-pestal-block{
+        display: inline-block;
+        width: 49%;
+        /* margin-top: 15%; */
+    }
+    .blue-pestal{
+        height:110vh;
+    }
+ /* blue-pestal end here  */
+
+    .grey-h3{
+        font-size: 30px;
+    }
+    .grey-hr{
+        margin-top: 2%;
+    }
+    .grey-p{
+        font-size: 27px;
+    }
+    
+    .grey-block{
+        display: inline-block;
+        width: 49%;
+    }
+    .grey{
+        height: 100vh;
+    }
+/* grey end here  */
+
+    .white-h3{
+        font-size: 40px;
+    }
+    .white-hr{
+        margin-left: 43%;
+    }
+    .white-p{
+        font-size: 25px;
+    }
+    .white-img{
+        margin-left: 38% ;
+    }
+    .white-block{
+        display: inline-block;
+        width: 45%;
+    }
+    .white-h2{
+    margin-top: 2%;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 20%;
+    }
+    .white-h1{
+    text-align: center;
+    margin-bottom: 25%;
+    margin-top: -32% ;
+    font-size: 45px;
+    margin-left: 25%;
+    
+    }
+    .white{
+        height: 65vh;
+    }
+ /* white end here  */
+
+    .yellow-h3{
+        font-size: 32px;
+        text-align: center;
+    }
+    .yellow-p{
+        font-size: 25px;
+        margin-top: 8%;
+        text-align: center;
+    }
+    .yellow-btn{
+        font-size: 25px;
+        margin-left: 10%;
+        
+    }
+    .yellow-h2{
+        font-size: 30px;
+    }
+    .yellow-btn-1{
+        font-size: 26px;
+        margin-left: 25%;
+    }
+    .yellow-btn-2{
+    font-size: 25px;
+        margin-left: 10%;
+    }
+    .yellow-img-4{
+    margin-top: 15%;
+    width: 80%;
+    margin-left: 10%;
+    }
+    
+/* yellow end here */
+
+    .pink-h3{
+        font-size: 30px;
+    }
+    .pink-hr{
+        margin-top: 2%;
+    }
+    .pink-p{
+        font-size: 27px;
+    }
+    
+    .pink-block{
+        display: inline-block;
+        width: 49%;
+    }
+    .pink{
+        height: 100vh;
+    }
+    .pink-h4{
+        padding-bottom: 10%;
+    }
+/* pink block end here  */
+
+    .blue-h3{
+        font-size: 30px;
+    }
+    
+    .blue-input-1{
+    
+        padding-right: 17.3%;
+    }
+    .blue-input-3{
+    
+        padding-right: 17.4%;
+    }
+    .blue-btn{
+        margin-left: 34%;
+    }
+    .blue-input-1::placeholder{
+        color: white;
+        font-size: 15px;
+    
+    }
+    .blue-input-3::placeholder{
+        color: white;
+        font-size: 15px;
+    
+    }
+    .blue-input-2::placeholder{
+        font-size: 15px;
+    }
+    .blue-ul{
+        padding-top: 2%;
+    }   
+    .blue-li-1{
+        margin-top: 2%;
+        
+    
+    }
+}
+
+    
+@media (min-width:1440px) {
+    .purple-img{
+        width: 13%;
+    }
+    .purple-ul a li{
+        font-size: 20px;
+        padding: 15px;
+    }
+    .purple-li{
+        margin-left: 60%;
+    }
+    .purple-ul{
+        margin-top: -3%;
+    }
+    .purple-h2{
+        font-size: 40px;
+    }
+    .purple-btn{
+            font-size: 25px;
+            padding-left: 8%;
+            padding-right: 8%;
+            border-radius: 5px;
+            margin-bottom: 10%;
+    }
+
+/* purple div end here  */
+
+    .blue-pestal-h3{
+        font-size: 40px;
+
+    }
+    .blue-pestle-hr{
+        margin-top: 20px;
+        width: 8%;
+        margin-left: 45%;
+    }
+    .blue-pestal-p{
+        font-size: 26px;
+        margin-top: 4%;
+    }
+    .blue-pestal{
+        height:110vh;
+    }
+    .blue-pestel-img{
+        /* width:25%; */
+        margin-left: 25%;
+        display: inline-block;
+    }
+    .blue-pestal-h2{
+        font-size: 28px;
+        margin-left: 18%;
+        text-align:center;
+        width:60%;
+        
+    }
+    .blue-pestal-p2{
+        text-align: center;
+        font-size: 15px;
+        margin-left:5%;
+        padding-left: 10px;
+        margin-top: 10%
+    }
+    .blue-pestal-block{
+        display: inline-block;
+        width: 24%;
+         margin-top: 8%;
+    }
+/* blue pestal end here */
+
+    .grey-block{
+        display: inline-block;
+        width: 23%;
+        
+    }
+    .grey-img{
+        margin-left:40%;
+    }
+    .grey-h2{
+        margin-left: 30%;
+    }
+    .grey-h4{
+        margin-left: 29%;
+    }
+    .grey-p2{
+        margin-left: 34%;
+        font-size: 10px;
+    }
+    .grey-a-1{
+
+        margin-left: 45%;
+    }
+    .grey-a-1-2{
+        margin-left: 50%;
+    }
+    .grey{
+        height: 90vh;
+    }
+    .grey-h3{
+        font-size: 40px;
+    }
+    .grey-p{
+        font-size: 30px ;
+        margin-bottom: 4%;
+    }
+    .grey{
+        height: 100vh;
+    }
+/* grey end here */
+
+    .white-block{
+        width: 23%;
+    }
+    .white-h2{
+        margin-left: 20%;
+    }
+
+/* white end here  */
+
+    .yellow-h3{
+        font-size: 36px;
+    }
+    .yellow-hr{
+        width: 10%;
+        margin-left: 45%;
+    }
+    .yellow-p{
+        font-size: 30px;
+        margin-top: 3%;
+    }
+    .yellow-btn{
+        font-size: 20px;
+        padding-left:30px ;
+        padding-right:30px ;
+        margin-top: 6%;
+        margin-left: 0;
+        margin-right: 2%;
+    }
+    .yellow-btn-2{
+        
+        font-size: 20px;
+        padding-left:30px ;
+        padding-right:30px ;
+        margin-top: 6%;
+        margin-left: 32%;
+        margin-right: 2%;
+        
+    }
+    .yellow-block{
+        width: 45%;
+        display: inline-block;
+        
+    }
+    .yellow-img-1{
+        margin-left: 20%;
+    }
+    .yellow-img-4{
+        
+        margin-left: 17%;
+    }
+    .yellow-h2{
+        text-align: center;
+        margin-left: 20%;
+    }
+    .yellow-btn-1{
+        margin-left: 35%;
+    }
+/* yellow div end here  */
+
+    .pink-block{
+        display: inline-block;
+        width: 23%;
+        margin-left: 1%;
+        
+    }
+    .pink-h4{
+        padding-bottom: 10%;
+    }
+    /* pink end here  */
+    
+    .blue-h3{
+        font-size: 40px;
+    }
+    
+    .blue-input-1{
+    
+        padding-right: 28%;
+    }
+    .blue-input-2{
+        padding-bottom: 14%;
+        margin-top: 2%;
+        
+    }
+    .blue-input-3{
+    
+        padding-right: 28%;
+    }
+    .blue-btn{
+        margin-left: 36%;
+        font-size: 20px;
+    }
+    .blue-input-1::placeholder{
+        color: white;
+        font-size: 20px;
+    
+    }
+    .blue-input-3::placeholder{
+        color: white;
+        font-size: 20px;
+    
+    }
+    .blue-input-2::placeholder{
+        font-size: 20px;
+        
+        
+    }
+    .blue-ul{
+        padding-top: 0%;
+        padding-bottom: 2%;
+    }
+    .blue-ul li{
+        font-size: 30px;    
+    }  
+    .blue-li-1{
+        margin-top: 2%;
+        font-size: 30px;
+    
+    }
+/* blue block end here  */
+}
